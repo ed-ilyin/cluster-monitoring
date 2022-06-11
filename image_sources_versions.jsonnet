@@ -1,15 +1,15 @@
 {
   _config+:: {
     versions+:: {
-      prometheus: 'v2.19.1',
-      alertmanager: 'v0.21.0',
-      kubeStateMetrics: '1.9.6',
+      prometheus: 'v2.36.1',
+      alertmanager: 'v0.24.0',
+      kubeStateMetrics: 'v1.9.6',
       kubeRbacProxy: 'v0.5.0',
       addonResizer: '2.3',
-      nodeExporter: 'v0.18.1',
+      nodeExporter: 'v1.3.1',
       prometheusOperator: 'v0.40.0',
-      prometheusAdapter: 'v0.7.0',
-      grafana: '7.0.3',
+      prometheusAdapter: 'v0.8.4',
+      grafana: '8.5.5',
       configmapReloader: 'latest',
       prometheusConfigReloader: 'v0.40.0',
       armExporter: 'latest',
